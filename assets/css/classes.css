@@ -6,6 +6,30 @@
   color: var(--white-color);
 }
 
+.main-1-bg{
+  background-image: url('../img/o-que-e-orumblingem-attack-on-titan-910x512.jpg');
+}
+
+.main-2-bg{
+  background-image: url('../img/32c9997e83bad4f9e391c7b334a817d7.jpg');
+  background-repeat: no-repeat;
+  background-size: fill cover;
+}
+
+.main-3-bg{
+  background-image: url('../img/fullmetal-alchemist-brotherhood-thumb_djgn.1280.webp');
+  background-repeat: no-repeat;
+  background-size: fill cover;
+}
+
+.main-4-bg{
+  background-image: url('../img/vlcsnap-2021-06-23-15h11m32s606-compressed\ \(1\).webp');
+}
+
+.main-5-bg{
+  background-image: url('../img/AAAABTOQQyuGFkQDY8PNLgKcnyVYGBjCouOKB7sHskCFRlGo1WsBf8ATaMn2EkuSb0aUlqhzA6Hwt1PvcjRF3XgQYPjEK9Sz85VP44xZ.jpg');
+  background-size: fill cover;
+}
 .white-bg {
   background: var(--white-color);
   color: var(--primary-color);
